@@ -22,7 +22,7 @@ The format is based on `Keep a Changelog`_.
 
 Added
 -----
-
+- Added function for optimizing phase-shift gates in DAGCircuits (#2229)
 - Introduced schedule lo configuration. (#2115)
 - Introduced pulse schedule assembler. (#2115)
 - Builtin library of continuous pulses and builtin library of discrete pulses which are obtained
